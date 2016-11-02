@@ -2,11 +2,11 @@
 
 > Install
 
-*** install fonts.
+***install fonts.
 
 ![1.png](http://images2015.cnblogs.com/blog/607542/201611/607542-20161102105708643-1465997537.png)
 
-*** install themes.
+***install themes.
 
 ![1.gif](http://images0.cnblogs.com/blog2015/607542/201508/251953036873715.gif)
 
