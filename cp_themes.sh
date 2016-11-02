@@ -2,7 +2,7 @@
 #chmod u+x cp_themes.sh
 
 DIR_PATH=~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-FILES=./themes/*.dvtcolortheme
+FILES=./themes/*.xccolortheme
 
 #if have DIR then 'do sth', else 'do other'
 if [ -d $DIR_PATH ]
