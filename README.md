@@ -2,11 +2,15 @@
 
 > Install
 
+1. install fonts.
+![1.png](http://images2015.cnblogs.com/blog/607542/201611/607542-20161102105708643-1465997537.png)
+
+2. install themes.
 ![1.gif](http://images0.cnblogs.com/blog2015/607542/201508/251953036873715.gif)
 
 > Choose the theme
 
-![2.gif](http://images0.cnblogs.com/blog2015/607542/201508/251953269535988.gif)
+![2.gif](http://images2015.cnblogs.com/blog/607542/201611/607542-20161102105502736-2116943402.gif)
 
 > Themes
 
